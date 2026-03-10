@@ -32,9 +32,9 @@ body {
 
 .profile img {
     width: 140px;
-    height: 140px;
-    border-radius: 50%;
-    border: 3px solid #ffffff;
+    height: 170px;
+    border-radius: 20%;
+    border: 2px solid #ffffff;
     object-fit: cover;
 }
 
@@ -123,4 +123,5 @@ header h2 {
 
 .timeline ul li {
     margin-bottom: 8px;
+
 }
